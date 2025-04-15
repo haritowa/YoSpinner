@@ -78,6 +78,7 @@ buildServer.json
 DerivedData/
 Derived/
 .swiftpm/
+Tuist/.build/*
 
 *.xcodeproj
 *.xcworkspace
